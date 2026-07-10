@@ -65,7 +65,7 @@ var PORTFOLIO_CONTENT = {
       problem: "Organizing inspiration images by hand is slow. MoodSort classifies each photo with a pretrained neural network, then groups them into Nature, Architecture, People, and more — instantly.",
       tags: ["ml5.js", "AI Classification", "Moodboards"],
       github: "https://github.com/Shruti-sharma09/moodsort",
-      live: "https://shruti-sharma09.github.io/moodsort/",
+      live: "https://shruti-sharma09.github.io/MoodSort/",
       accent: "teal"
     },
     {
