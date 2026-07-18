@@ -2,8 +2,6 @@
 
 A full-screen, scroll-driven portfolio site with an actual **AI voice narrating each section as you scroll** — using the browser's own built-in text-to-speech engine. No API keys, no backend, no cost.
 
-**[Live Demo](#)** — replace this with your GitHub Pages link after deploying (steps below)
-
 ![Portfolio preview](https://via.placeholder.com/900x500/050507/FF2D9E?text=Shruti+Sharma+%E2%80%94+Cinematic+Portfolio)
 
 ## Features
